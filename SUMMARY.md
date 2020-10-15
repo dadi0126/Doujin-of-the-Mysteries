@@ -17,3 +17,8 @@
 * [神战篇](ji-duo/shen-zhan-pian.md)
 * [节欲之争](ji-duo/jie-yu-zhi-zheng.md)
 
+## 莎伦的催眠恶堕调教
+
+* [第一章](suo-lun-de-cui-mianeduo-tiao-jiao/di-yi-zhang.md)
+* [第二章](suo-lun-de-cui-mianeduo-tiao-jiao/di-er-zhang.md)
+
