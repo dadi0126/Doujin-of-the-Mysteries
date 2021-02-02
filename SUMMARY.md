@@ -11,6 +11,7 @@
   * [佛尔思人物设定](gui-mi-gui-lai/di-er-zhang-fo-er-si/fo-er-si-ren-wu-she-ding.md)
 * [第三章 海柔儿](gui-mi-gui-lai/di-san-zhang-hai-rou-er/README.md)
   * [海柔尔人物设定](gui-mi-gui-lai/di-san-zhang-hai-rou-er/hai-rou-er-ren-wu-she-ding.md)
+* [第四章 休](gui-mi-gui-lai/di-si-zhang-xiu.md)
 * [神奇物品在哪里  贞洁的誓言](gui-mi-gui-lai/shen-qi-wu-pin-zai-na-li-zhen-jie-de-shi-yan.md)
 * [神奇物品在哪里 威严的象征](gui-mi-gui-lai/shen-qi-wu-pin-zai-na-li-wei-yan-de-xiang-zheng.md)
 
