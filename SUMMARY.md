@@ -13,8 +13,10 @@
   * [海柔尔人物设定](gui-mi-gui-lai/di-san-zhang-hai-rou-er/hai-rou-er-ren-wu-she-ding.md)
 * [第四章 休](gui-mi-gui-lai/di-si-zhang-xiu/README.md)
   * [休人物设定](gui-mi-gui-lai/di-si-zhang-xiu/xiu-ren-wu-she-ding.md)
-* [神奇物品在哪里 威严的象征](gui-mi-gui-lai/shen-qi-wu-pin-zai-na-li-wei-yan-de-xiang-zheng.md)
-* [神奇物品在哪里  贞洁的誓言](gui-mi-gui-lai/shen-qi-wu-pin-zai-na-li-zhen-jie-de-shi-yan.md)
+* [神奇物品在哪里](gui-mi-gui-lai/shen-qi-wu-pin-zai-na-li/README.md)
+  * [4 低吟浅唱](gui-mi-gui-lai/shen-qi-wu-pin-zai-na-li/4-di-yin-qian-chang.md)
+  * [15 威严的象征](gui-mi-gui-lai/shen-qi-wu-pin-zai-na-li/shen-qi-wu-pin-zai-na-li-wei-yan-de-xiang-zheng.md)
+  * [18  贞洁的誓言](gui-mi-gui-lai/shen-qi-wu-pin-zai-na-li/shen-qi-wu-pin-zai-na-li-zhen-jie-de-shi-yan.md)
 
 ## 即堕
 
